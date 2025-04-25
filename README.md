@@ -1,0 +1,1 @@
+# kofi-mailing-templates-example
